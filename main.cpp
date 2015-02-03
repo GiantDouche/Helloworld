@@ -4,8 +4,14 @@
 #include <cmath>
 #include "discpp.h"
 #include <cstdlib>
-/*HELLO*/
+/*fdsjklafjdskl*/
+/*fdjskl;fajdskla;fjdksl;afjkdls;a*/
 using namespace std;
+
+
+/*fjdksl;afjdkls;afjdkls;afjkdlsafjdks HELLO*/
+
+
 
 //test
 //aaa
@@ -14,7 +20,7 @@ using namespace std;
 int main ()
 { 
     Dislin g;
-    int Step = 20000;
+    fdsfsfdsfdsfds HELLO;
     int ic;
     int n = Step;
     double temp = 0.0;
